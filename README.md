@@ -48,3 +48,9 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 # Image-Filter
 # Image-Filter001
+
+
+
+#My Endpoint URL
+
+Image-Filter-dev22222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/news/743/cpsprodpb/63C2/production/_126583552_trusspicbbc.jpg
